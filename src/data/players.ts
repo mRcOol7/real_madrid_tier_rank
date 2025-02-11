@@ -89,6 +89,12 @@ export const players = [
       "image": "https://publish-p47754-e237306.adobeaemcloud.com/adobe/dynamicmedia/deliver/dm-aid--173cdbdf-7428-4099-b812-2a187070cdc7/_330186262229.app.webp?preferwebp=true&width=312",
       "era": "legend"
     },
+    {
+      "id": "28",
+      "name": "Santiago Bernabéu",
+      "image": "https://publish-p47754-e237306.adobeaemcloud.com/adobe/dynamicmedia/deliver/dm-aid--990b2daa-3ad5-49c2-be59-4b8f0b9170fd/_330186259721.app.webp?preferwebp=true&width=312",
+      "era": "legend"
+    },
   
   
 
